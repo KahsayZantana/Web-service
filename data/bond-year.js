@@ -11,7 +11,7 @@
                 "Composer": "Fil Eisler,Rodney Jerkins, Ester Dean, Jim Beanz",
                 "Budget":"$3,000,000.00 per episode",
                 "BoxOffice":"$303,841M(United States)",
-                "Image":"for-your-eyes-only.jpg"
+                "Image":"Empire.jpg"
               },
               {
                 "Film":2,
@@ -24,7 +24,7 @@
                 "Bond":"Pierce Brosnan ",
                 "Budget":"$2,000,000.00",
                 "BoxOffice":"$2.202 billion",
-                "Image":"a-view-to-a-kill.jpg"
+                "Image":"Titanic.jpg"
               },
               {
                 "Film":3,
@@ -37,7 +37,7 @@
                 "Bond":"Sean Connery",
                 "Budget":"> £25,000",
                 "BoxOffice":"$325,493",
-                "Image":"goldfinger.jpg"
+                "Image":"Beats.jpg"
               },
               {
 				"Film":4,
@@ -46,7 +46,7 @@
                 "Director":"Anya Adams",
                 "Producers":"Debra J. Fisher",
                 "Writers":"Sarah Lampert, Debra J.Fisher, Mike Gauyo, Ali Laventhol",
-                "Image":"thunderball.jpg"
+                "Image":"Ginny and jeorgia.jpg"
               },
               {
                 "Film":5,
@@ -57,7 +57,7 @@
                 "Writers":"Rachael Lippincott,Tobias Iaconis,Mikki Daughtry ",
                 "Composer":"Brian Theodore Tyler,Breton Vivian ",
                 "Budget":"$7,000,000.00",
-                "Image":"you-only-live-twice.jpg"
+                "Image":"five feet apart.jpg"
               },
               {
                 "Film":6,
@@ -67,7 +67,7 @@
                 "Producers":"Nathalie Lartilleux",
                 "Writers":"Carlos Romero",
                 "Composer":"Jorge Eduardo Murguia",
-                "Image":"on-her-majestys-secret-service.jpg"
+                "Image":"don't mess with an angel.jpg"
               },
               {
 				"Film":7,
@@ -75,7 +75,7 @@
                 "Year":2014,
                 "Producers":"Jennie Snyder Urman, Perla Farias",
                 "Director":" Melanie Mayron",
-                "Image":"diamonds-are-forever.jpg"
+                "Image":"jane the virgin.jpg"
               },
               {
                 "Film":8,
@@ -86,7 +86,7 @@
                 "Writers":"Tabi McCartney and Dana Schmalenberg",
                 "Composer":"Laura Anne Karpman and Atif Afzal",
                 "Budget":"over $10 million USD",
-                "Image":"live-and-let-die.jpg"
+                "Image":"Resort to love.jpg"
               },
               {
 				"Film":9,
@@ -95,7 +95,7 @@
                 "Director":"Alan Taylor,Mark Mylod,Alexander John Graves,Jeremy Podeswa",
                 "Composer":"composer Ramin Djawadi",
                 "Budget":"over $10 million per episode",
-                "Image":"the-man-with-the-golden-gun.jpg"
+                "Image":"Game of Thrones.jpg"
               },
              
               {
@@ -107,7 +107,7 @@
                 "Writers":"Hwang Dong-hyuk",
                 "Composer":"Jung Jae-il",
                 "Budget":"$3.5 million.",
-                "Image":"the-spy-who-loved-me.jpg"
+                "Image":"Squid Game.jpg"
               }
             ]
 }
