@@ -9,28 +9,29 @@ body {font-family:georgia;}
 <script type="text/javascript">
 $(document).ready(function() {  
 
-	$('.category').click(function(e){
+  	$('.category').click(function(e){
         e.preventDefault(); //stop default action of the link
-		cat = $(this).attr("href");  //get category from URL
-		loadAJAX(cat);  //load AJAX and parse JSON file
-	});
-});	
+  		cat = $(this).attr("href");  //get category from URL
+  
+  	 
+   var request = $.ajax({
+     url: "api.php?cat=" + cat,
+     method: "GET",
+     dataType: "json"
+   });
+   request.done(function( data ) {
+     console.log(data);
+   });
+   request.fail(function(xhr, status, error) {
+               //Ajax request failed.
+               var errorMessage = xhr.status + ': ' + xhr.statusText
+               alert('Error - ' + errorMessage);
+           }
+);
+ 
+  });
+}); 
 
-
-function loadAJAX(cat)
-{
-	//AJAX connection will go here
-    alert('cat is: ' + cat);
-}
-    
-function toConsole(data)
-{//return data to console for JSON examination
-	console.log(data); //to view,use Chrome console, ctrl + shift + j
-}
-
-function bondJSON(data){
-//JSON processing data goes here
-}
 
 </script>
 </head>
