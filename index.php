@@ -21,6 +21,15 @@ $(document).ready(function() {
    });
    request.done(function( data ) {
      console.log(data);
+     //place the title on the page
+     $("#filmtittle").html(data.title);
+
+     //view JSON as a string
+    $("#output").text(JSON.stringify(data));
+
+
+
+     
    });
    request.fail(function(xhr, status, error) {
                //Ajax request failed.
