@@ -57,11 +57,7 @@
                 "Writers":"Rachael Lippincott,Tobias Iaconis,Mikki Daughtry ",
                 "Composer":"Brian Theodore Tyler,Breton Vivian ",
                 "Budget":"$7,000,000.00",
-<<<<<<< HEAD
                 "Image":"adFive feet apart.jpg"
-=======
-                "Image":"C:\Users\Student\OneDrive - Year Up\Documents\GitHub\Web-service\images\Five feet apart.jpg"
->>>>>>> 6f726370f626119aa5e7014430b043d39aac508b
               },
               {
                 "Film":6,
