@@ -37,7 +37,7 @@
                 "Bond":"Sean Connery",
                 "Budget":"> £25,000",
                 "BoxOffice":"$325,493",
-                "Image":"Beats.jpg"
+                "Image":"beats.jpg"
               },
               {
 				"Film":4,
@@ -46,7 +46,7 @@
                 "Director":"Anya Adams",
                 "Producers":"Debra J. Fisher",
                 "Writers":"Sarah Lampert, Debra J.Fisher, Mike Gauyo, Ali Laventhol",
-                "Image":"Ginny and jeorgia.jpg"
+                "Image":"Ginny and jeo.jpg"
               },
               {
                 "Film":5,
@@ -57,12 +57,8 @@
                 "Writers":"Rachael Lippincott,Tobias Iaconis,Mikki Daughtry ",
                 "Composer":"Brian Theodore Tyler,Breton Vivian ",
                 "Budget":"$7,000,000.00",
-<<<<<<< HEAD
-                "Image":"adFive feet apart.jpg"
-=======
-                "Image":"C:\Users\Student\OneDrive - Year Up\Documents\GitHub\Web-service\images\Five feet apart.jpg"
->>>>>>> 6f726370f626119aa5e7014430b043d39aac508b
-              },
+                "Image":"Five feet apart.jpg"
+			  },
               {
                 "Film":6,
                 "Title":"Don't mess with an angel",
@@ -71,7 +67,7 @@
                 "Producers":"Nathalie Lartilleux",
                 "Writers":"Carlos Romero",
                 "Composer":"Jorge Eduardo Murguia",
-                "Image":"don't mess with an angel.jpg"
+                "Image":"don't mess with.jpg"
               },
               {
 				"Film":7,
@@ -79,7 +75,7 @@
                 "Year":2014,
                 "Producers":"Jennie Snyder Urman, Perla Farias",
                 "Director":" Melanie Mayron",
-                "Image":"jane the virgin.jpg"
+                "Image":"jane.jpg"
               },
               {
                 "Film":8,
@@ -90,7 +86,7 @@
                 "Writers":"Tabi McCartney and Dana Schmalenberg",
                 "Composer":"Laura Anne Karpman and Atif Afzal",
                 "Budget":"over $10 million USD",
-                "Image":"Resort to love.jpg"
+                "Image":"resort.jpg"
               },
               {
 				"Film":9,
@@ -99,7 +95,7 @@
                 "Director":"Alan Taylor,Mark Mylod,Alexander John Graves,Jeremy Podeswa",
                 "Composer":"composer Ramin Djawadi",
                 "Budget":"over $10 million per episode",
-                "Image":"Game of Thrones.jpg"
+                "Image":"game of throne.jpg"
               },
              
               {
@@ -111,7 +107,7 @@
                 "Writers":"Hwang Dong-hyuk",
                 "Composer":"Jung Jae-il",
                 "Budget":"$3.5 million.",
-                "Image":"Squid Game.jpg"
+                "Image":"squid game.jpg"
               }
             ]
 }
