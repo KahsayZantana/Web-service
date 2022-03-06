@@ -86,7 +86,9 @@ cat = $(this).attr("href");  //get category from URL
 <h3 id="filmtitle">Title Will Go Here</h3>
 <div id="films">
 <p>Films will go here</p>
-</div>
+<div class="picture">
+<img src="images/Empire.jpg" alt=/>
+</div> 
 
    </div>
 
