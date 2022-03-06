@@ -153,7 +153,7 @@ cat = $(this).attr("href");  //get category from URL
 <body>
 <h1>Bond Web Service</h1>
 <a href="year" class="category">Bond Films By Year</a><br />
-	"title": "Films that were number one by peoples choice ",
+	"title": " ",
 <a href="box" class="category"></a>
 <h3 id="filmtitle">Title Will Go Here</h3>
 <div id="films">
