@@ -162,7 +162,6 @@ cat = $(this).attr("href");  //get category from URL
 </div> 
 
    </div>
->>>>>>> 372a275ca15955e2663a1433a89560a2ea9fe897
 
 <div id="output">Results go here</div>
 </body>
