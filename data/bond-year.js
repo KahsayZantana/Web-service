@@ -2,7 +2,7 @@
     "title": "Bond Films by Year",
     "films":[
               {
-				"Film":1,
+				        "Film":1,
                 "Title":"Empire",
                 "Year":2014,
                 "Director":"Lee Daniels",
@@ -75,7 +75,8 @@
                 "Year":2014,
                 "Producers":"Jennie Snyder Urman, Perla Farias",
                 "Director":" Melanie Mayron",
-                "Image":"jane.jpg"
+                "image":""
+               
               },
               {
                 "Film":8,
