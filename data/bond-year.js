@@ -75,8 +75,12 @@
                 "Year":2014,
                 "Producers":"Jennie Snyder Urman, Perla Farias",
                 "Director":" Melanie Mayron",
+<<<<<<< HEAD
                 "image":""
                
+=======
+                "Image":"jane.jpg"
+>>>>>>> 372a275ca15955e2663a1433a89560a2ea9fe897
               },
               {
                 "Film":8,
