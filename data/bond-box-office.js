@@ -35,7 +35,8 @@
                 "Image":"jane.jpg"
 			  },
 			  {
-				"Title":"Game of Thrones",
+				"Title":9,
+                "Title":"Game of Thrones",
                 "Year":2011,
                 "Director":"Alan Taylor,Mark Mylod,Alexander John Graves,Jeremy Podeswa",
                 "Composer":"composer Ramin Djawadi",
@@ -65,7 +66,7 @@
                 "Image":"Five feet apart.jpg"
 			  },
 			  {
-				4,
+			    "Films":6
                 "Title":"Ginny & Georgia",
                 "Year":2021,
                 "Director":"Anya Adams",
@@ -86,30 +87,18 @@
                 "BoxOffice":"$325,493",
                 "Image":"beats.jpg"
 			  },
+			  
 			  {
-				"Film":1,
-                "Title":"Empire",
-                "Year":2014,
-                "Director":"Lee Daniels",
-                "Producers":"Lee Daniels and Danny Strong",
-                "Writers":"Lee Daniels and Danny Strong",
-                "Composer": "Fil Eisler,Rodney Jerkins, Ester Dean, Jim Beanz",
-                "Budget":"$3,000,000.00 per episode",
-                "BoxOffice":"$303,841M(United States)",
-                "Image":"Empire.jpg"
-			  },
-			  {
-				"Film":1,
-				"Title":"Dr. No",
-				"Year":1962,
-				"Director":"Terence Young",
-				"Producers":"Harry Saltzman and Albert R. Broccoli",
-				"Writers":"Richard Maibaum, Johanna Harwood and Berkely Mather",
-				"Composer":"Monty Norman",
-				"Bond":"Sean Connery",
-				"Budget":"$1,000,000.00",
-				"BoxOffice":"$59,567,035.00",
-				"Image":"dr-no.jpg"
+          "Film":1,
+          "Title":"Empire",
+          "Year":2014,
+          "Director":"Lee Daniels",
+          "Producers":"Lee Daniels and Danny Strong",
+          "Writers":"Lee Daniels and Danny Strong",
+          "Composer": "Fil Eisler,Rodney Jerkins, Ester Dean, Jim Beanz",
+          "Budget":"$3,000,000.00 per episode",
+          "BoxOffice":"$303,841M(United States)",
+          "Image":"Empire.jpg"
 			  }
 
 			]
